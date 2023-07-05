@@ -113,7 +113,7 @@ You can customize the appearance of your `Card` however you wish with URL params
 - `border_color` - Card border color _(hex color)_ without `#`
 
 Use `/?background_color=8b0000&border_color=ffffff` parameter like so:  
-&nbsp; <br> [![Spotify](https://ghostof0days.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)]()
+&nbsp; <br> [![Spotify](https://readme-ashen.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)]()
 
 ## Spotify Logo
 
