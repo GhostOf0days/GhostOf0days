@@ -1,0 +1,8 @@
+ {
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://github.com/GhostOf0days/GhostOf0days"
+    }
+  ]
+}
