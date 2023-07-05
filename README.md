@@ -3,7 +3,7 @@
 </div>
 
 &nbsp;<div align="center">
-  [![Spotify](https://readme-ashen.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/GhostOf0days)
+  [![Spotify](https://readme-ashen.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31dwqeb4l5hrc5htug7jbje2y3ju)
 </div>
 
 &nbsp;<div align="center">
