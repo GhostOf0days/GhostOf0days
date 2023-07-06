@@ -1,5 +1,5 @@
 &nbsp;<div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+there!+%F0%9F%91%8B;My+name+is+Jaisal!;My+favorite+topics+are...;+deep+learning...;web+dev...;UI+design...;quant...;and+entrepreneurship!+%E2%9D%A4%EF%B8%8F;But+most+importantly...;I+love+to+have+fun!+%F0%9F%99%82)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=Hi+there!+%F0%9F%91%8B;My+name+is+Jaisal!;My+favorite+topics+are...;+deep+learning...;web+dev...;UI+design...;quant...;and+entrepreneurship!+%E2%9D%A4%EF%B8%8F;But+most+importantly...;I+love+to+have+fun!+%F0%9F%99%82)](https://git.io/typing-svg)
 </div>
 
 &nbsp;<div align="center">
