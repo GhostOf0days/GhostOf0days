@@ -1,0 +1,16 @@
+version: 2
+updates:
+  # Enable version updates for pip (Python)
+  - package-ecosystem: 'pip'
+    # Specify the directory (relative to the root) where requirements.txt or pipfile is located
+    directory: '/'
+    schedule:
+      # Check for updates every weekday
+      interval: 'daily'
+
+  # Enable version updates for GitHub Actions
+  - package-ecosystem: 'github-actions'
+    directory: '/'
+    schedule:
+      # Check for updates to GitHub Actions every weekday
+      interval: 'daily'
