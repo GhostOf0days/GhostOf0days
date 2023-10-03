@@ -12,6 +12,6 @@ pycodestyle==2.11.0
 python-dotenv==1.0.0
 requests==2.31.0
 toml==0.10.2
-urllib3==2.0.5
+urllib3==2.0.6
 Werkzeug==3.0.0
 colorthief==0.2.1
