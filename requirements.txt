@@ -1,4 +1,4 @@
-autopep8==2.1.0
+autopep8==2.3.1
 certifi==2024.7.4
 chardet==5.2.0
 click==8.1.7
